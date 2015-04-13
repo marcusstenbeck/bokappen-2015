@@ -1,0 +1,4 @@
+{
+	"esprima": "esprima-fb",
+	"fileExtensions": [".js", ".jsx"]
+}
