@@ -1,0 +1,22 @@
+{
+  "name": "bokappen-2015",
+  "version": "0.0.0",
+  "description": "Bokappen 2015",
+  "main": "./src/main.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "es6-promise": "^2.0.1",
+    "gulp": "^3.8.11",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.5.2",
+    "object-assign": "^2.0.0",
+    "react": "^0.13.1",
+    "react-async": "^2.1.0",
+    "react-router-component": "^0.24.4",
+    "reactify": "^1.1.0"
+  }
+}
